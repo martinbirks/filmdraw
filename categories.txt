@@ -1,0 +1,8 @@
+Horror
+Action
+Thriller
+Romcom
+Comedy
+Musical
+Animation
+Sci-fi
